@@ -1,6 +1,6 @@
-# silenciopz-overview
+#I'm Bruno
 
-Hi, I'm silenciopz! :)
+Hi, I'm silenciopz, my real name is Bruno! :)
 
 Overview of every language I used on GitHub so far.
 
