@@ -1,5 +1,4 @@
 <h1>Hey! I'm Bruno! :)</h1>
 
-[![SilencioPz GitHub stats](https://github-readme-stats.vercel.app/api?username=silenciopz)](https://github.com/silenciopz/github-readme-stats)
-<img alt="Top Langs" align="left" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silenciopz&layout=compact"/>
-
+<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=silenciopz&show_icons=true"/>
+<img alt="Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilencioPz&size_weight=0.5&count_weight=0.5"/>
