@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Bruno! :)</h1>
+<h1 align="center">Hey! I'm Bruno! 😎👍</h1>
 
 <div align="center">
   <img alt="My Stats" width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/silenciopz?cardType=github&theme=dark"/>
