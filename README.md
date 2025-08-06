@@ -2,7 +2,6 @@
 
 <div align="center">
   <img alt="My Stats" width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/silenciopz?cardType=github&theme=dark"/>
-  <img alt="Top Languages" width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/silenciopz/top-langs/?theme=dark&layout=compact&hide=python,html,css"/>
 </div>
 
 ### 🚀 Principais Habilidades
