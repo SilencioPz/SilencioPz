@@ -4,7 +4,7 @@
   <img alt="My Stats" width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/silenciopz?cardType=github&theme=dark"/>
 </div>
 
-### 🚀 Principais Habilidades
+### 🚀 Main Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Junior-%237F52FF?logo=kotlin"/>
   <img src="https://img.shields.io/badge/Android-Junior-%233DDC84?logo=android"/>
